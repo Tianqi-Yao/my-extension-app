@@ -14,6 +14,7 @@ My Chrome Extension
 ## Contribution
 
 Suggestions and pull requests are welcomed!.
+[doc](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/)
 
 ---
 
